@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "@project/components",
+    "version": "1.0.0",
+    "main": "src/index.ts",
+    "peerDependencies": {
+      "classnames": "*",
+      "react": "*",
+      "typescript": "*"
+    }
+  }

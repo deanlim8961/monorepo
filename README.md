@@ -55,7 +55,7 @@ git clone https://github.com/deanlim8961/monorepo.git
 cd monorepo
 ```
 
-3. Install dependencies - yarn 패키지 설치 (yarn berry 3.2.0)
+3. Install dependencies
 
 ```bash
 yarn install
